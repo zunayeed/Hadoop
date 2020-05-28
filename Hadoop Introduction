@@ -1,1 +1,15 @@
-
+- Linux is light weight, accessing file system
+- shell scripting
+- mapreduce spark
+- schaduling tool(expert 1 schaduling tool)
+- module 3: HDFS(storare system): Hadoop distributed file system,  store data, similar to linux command
+- module 4: Mapreduce acts like processing framework run on top of hdfs 
+ - map reduce takes time , realtime streaming it takes time
+ - batch processing people use hive
+ - spark is processed in memory, fast better than map reduce, iterating incremental algo, 
+ - spark is used for processing data
+ - hyper parameter: every record is processed 
+ - hive is a processing tool, sql based syntax
+ - hive converts sql to map reduce programs
+ - hive for batch processing,  for data processing, company use hive good for processing in distributed environment
+ - SQoop injection tool
