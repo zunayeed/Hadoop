@@ -13,3 +13,8 @@
  - hive converts sql to map reduce programs
  - hive for batch processing,  for data processing, company use hive good for processing in distributed environment
  - SQoop injection tool
+ - pyspark 
+ - data engineer: spark ( frame work to process data) 
+ - data science: python
+ - kakfa is udes for real time streaming
+ - hbase nosql database
